@@ -1,0 +1,4 @@
+%{
+  "cpf": {:hex, :cpf, "1.1.0", "18fa8359151a60fbae5e896c7a29962df276c9c01afde61f62fb527214b7d112", [:mix], [{:ecto, "~> 3.2", [hex: :ecto, repo: "hexpm", optional: true]}], "hexpm", "c7be2f7823c55a4482f087983a65829b9313673a2957dc79529b814f4e5b52fd"},
+  "uuid": {:hex, :uuid, "1.1.8", "e22fc04499de0de3ed1116b770c7737779f226ceefa0badb3592e64d5cfb4eb9", [:mix], [], "hexpm", "c790593b4c3b601f5dc2378baae7efaf5b3d73c4c6456ba85759905be792f2ac"},
+}
