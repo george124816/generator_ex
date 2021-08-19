@@ -1,4 +1,4 @@
-# cpf/uuid genreator cli
+# cnpj/cpf/uuid generator cli
 
 ## Installation
 
