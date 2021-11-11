@@ -10,6 +10,9 @@ defmodule Generator.CLI do
 
         "cnpj" ->
           IO.puts(Brcpfcnpj.cnpj_generate())
+
+        _ -> 
+          IO.puts("invalid command")
       end
     end)
   end
