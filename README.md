@@ -3,7 +3,7 @@
 ## Installation
 
 ```elixir
-mix escript.install github george124816/generator
+mix escript.install github george124816/generator_ex
 ```
 
 ## Usage
